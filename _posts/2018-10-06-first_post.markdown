@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First post"
 date:   2018-10-06 23:16:34 +0200
 categories: first-post frist
 ---
@@ -12,7 +12,6 @@ I have no more words.
 {% highlight python %}
 def print_hi(name):
   puts "Hi, #{name}"
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+print_hi('Mina')
 {% endhighlight %}
 
