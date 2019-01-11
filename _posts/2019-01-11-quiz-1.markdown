@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "A short poem"
+title:  "Quiz notes, friday 2019/01/11"
 date:   2019-01-11 08:45:00 +0200
 categories: quiz
 ---
-
-# Quiz-notes 1
 
 ## Børge and Børre
 
