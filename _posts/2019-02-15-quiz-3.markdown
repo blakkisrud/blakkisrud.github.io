@@ -11,7 +11,7 @@ categories: quiz
 * Sassoon - British poet
 * Pedersen - Danish poet
 
-* Obstfelder - 
+* Obstfelder
 * Johnsen
 
 ## Daily wiki
@@ -19,4 +19,4 @@ categories: quiz
 * North Macedonia
 * Kjetil Jansrud
 * Sondre Justad - four Spellemann
-* Verkhovna Rada 
+* Verkhovna Rada - Ukranian Parliament
