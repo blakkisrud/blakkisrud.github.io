@@ -1,14 +1,11 @@
 ---
 layout: post
 title:  "Quiz notes, friday 2019/05/10"
-date:   2019-05-03 08:45:00 +0200
+date:   2019-05-10 08:45:00 +0200
 categories: quiz
 ---
 
-## Asbjørn and Espen
-
-[Espen](https://no.wikipedia.org/wiki/Espen)
-[Asbjørn](https://no.wikipedia.org/wiki/Asbj%C3%B8rn)
+## [Espen](https://no.wikipedia.org/wiki/Espen) and [Asbjørn](https://no.wikipedia.org/wiki/Asbj%C3%B8rn)
 
 * Asbjørn Ruud - Guitarist - Oslo Groove Company
 * Asbjørn Krogtoft - Artist "ASA"
