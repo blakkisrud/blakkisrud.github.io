@@ -5,8 +5,6 @@ date:   2019-09-17 20:45:34 +0200
 categories: kultivert wiki
 ---
 
-##  Dans
-
 * Q1: I hvilket land finnes bimbetka-hulen, som har verdens eldste beskrivelse av dans?
 
 * Q2: Denne dansen på tre bokstaver ble utviklet i England i det 16de århundre og er idag mest kjent fra irsk folkemusikk. Hvilken?
