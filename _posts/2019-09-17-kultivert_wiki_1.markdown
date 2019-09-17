@@ -7,9 +7,9 @@ categories: kultivert wiki
 
 ##  Dans
 
-* Q1: I hvilket land finnes bimbetka-hulen, som har verdens eldste fremvisning av dans?
+* Q1: I hvilket land finnes bimbetka-hulen, som har verdens eldste beskrivelse av dans?
 
-* Q2: Denne dansen på tre bokstaver ble utviklet i England i det 16de århundre og er idag mest kjent fra irsk folkemusikk?
+* Q2: Denne dansen på tre bokstaver ble utviklet i England i det 16de århundre og er idag mest kjent fra irsk folkemusikk. Hvilken?
 
 * Q3: Denne folkegruppen består idag av over en halv million canadiere og stammer fra en blanding av canadiske urinvånere og bosettere og har et navn som på fransk betyr "hybrid".
 
