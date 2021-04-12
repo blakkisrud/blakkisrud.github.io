@@ -28,7 +28,7 @@ twitter_username: blakkisrud
 github_username:  blakkisrud
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
