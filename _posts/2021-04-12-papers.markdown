@@ -5,19 +5,16 @@ date:   2021-04-12 11:54:52 +0200
 categories: daily read
 ---
 
-# Daily read
+## Daily read
 
 This is the first (possibly last, time will show) post. 
-If I don't tell anyone about it, no one will show up, so if you read this I told someone, might as well read on.
 Sometimes I read papers about something that interest me, sometimes this overlaps with my daily work, sometimes this even overlap with something colleagues would find interesting.
 Sometimes I read papers thorough, sometimes I skim them and sometimes I save them for later (of which I mostly forget).
 Sometimes I even share them with colleagues, and it is here this little text comes in. 
-Instead of harassing them with unsolicited emails, I can just collect them here (and harass them with a notification each time I write something new...
+Instead of harassing them with unsolicited emails, I can just collect them here (and harass them with a notification each time I write something new...)
 Layout and overall format could be solved later.
 
-## Papers I came by today, yesterday and the day before
-
-### Radiobiology
+### Papers I came by today, yesterday and the day before
 
 Dosimetric evaluation of receptor-heterogeneity on the therapeutic efficacy of peptide receptor radionuclide therapy: correlation with DNA damage induction and in vivo survival
 [Paper link](https://jnm.snmjournals.org/content/early/2021/04/09/jnumed.121.262122?ct)
