@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "The difficult second post"
+date:   2021-04-15 22:16:52 +0200
+categories: daily read
+---
+
+## Daily read
+
+Good evening!
+The list start somewhat technical, with PET-assisted SPECT-reconstruction, a small Chinese study and finishing with two papers on SIRT. Fun stuff. 
+
+### Papers I came by today - on the technical side
+
+Theranostic SPECT reconstruction for improved resolution: application to radionuclide therapy dosimetry
+[Paper link](https://ejnmmiphys.springeropen.com/articles/10.1186/s40658-021-00362-x)
+Dosimetry of 177Lu-DOTATOC First Circle Treatment in Patients With Advanced Metastatic Neuroendocrine Tumors: a Pilot Study in China
+[Paper link](https://www.researchsquare.com/article/rs-152772/v1)
+Combined quality and dose-volume histograms for assessing the predictive value of 99mTc-MAA SPECT/CT simulation for personalizing radioembolization treatment in liver metastatic colorectal cancer
+[Paper link](https://ejnmmiphys.springeropen.com/articles/10.1186/s40658-020-00345-4)
+Tumor response prediction in 90Y radioembolization with PET-based radiomics features and absorbed dose metrics
+[Paper link](https://ejnmmiphys.springeropen.com/articles/10.1186/s40658-020-00340-9)
+
+## Music in the background right now
+
+Being Hitlers favourite does not help your post-mortem reputation, especially if you were sort of unstable and questionable during your life, but my of my did Richard Wagner make some fantastic music! "Das Rheingold", although interspersed with high-pitched yelling (I'm looking at you Woglinde, Wellgunde, and Floßhilde) some of the harmonies are beyond this world, with our own Kirsten Flagstad as Frey this is pretty spectacular: [Album link](https://open.spotify.com/album/7w6igphwvr1eurhVEQqYEK?si=KcNB-455T6GncGfi1VigXA)
+
+
