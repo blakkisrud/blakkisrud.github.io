@@ -8,6 +8,7 @@ categories: daily read
 ## Daily read
 
 Good evening!
+After a long day squashing digital bugs, it is nice to kick back with some paper skimming.
 The list start somewhat technical, with PET-assisted SPECT-reconstruction, a small Chinese study and finishing with two papers on SIRT. Fun stuff. 
 
 ### Papers I came by today - on the technical side
