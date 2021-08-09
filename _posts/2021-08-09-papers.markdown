@@ -1,18 +1,24 @@
 ---
 layout: post
 title:  "Catching up"
-date:   2021-08-09 20:00:00 +0200
+date:   2021-08-09 19:00:00 +0200
 categories: daily read
 ---
 
 ## Papers
 
+### Extra-vasal administration
+
+Tissue dose estimation after extravasation of 177Lu-DOTATATE
+[Paper link](https://ejnmmiphys.springeropen.com/articles/10.1186/s40658-021-00378-3)
+
+Consequences of radiopharmaceutical extravasation and therapeutic interventions: a systematic review
+[Paper link](https://link.springer.com/article/10.1007%2Fs00259-017-3675-7)
+
 ### LNT-arguing
 
 Nuclear Medicine Procedures Do Not Pose Cancer Risks in Women—Unappreciated or Otherwise
 [Paper link](https://jnm.snmjournals.org/content/59/10/1489.long)
-
-### General dosimetry
 
 ### On dosimetry in PRRT
 
@@ -53,6 +59,10 @@ Quantitative comparison of pre-treatment predictive and post-treatment measured 
 [Paper link](https://ejnmmires.springeropen.com/articles/10.1186/s13550-020-00675-5)
 
 ## Music in the background right now
+
+Danzig is much more than a Polish free state, it is bluesey, heavy and crooney, all the right ey-s.
+
+<iframe src="https://open.spotify.com/embed/track/4wM61bPrvM8HScuxtskTbd" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 
