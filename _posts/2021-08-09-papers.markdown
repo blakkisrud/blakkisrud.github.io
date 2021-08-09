@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Catching up"
+date:   2021-08-09 20:00:00 +0200
+categories: daily read
+---
+
+## Papers
+
+### LNT-arguing
+
+Nuclear Medicine Procedures Do Not Pose Cancer Risks in Women—Unappreciated or Otherwise
+[Paper link](https://jnm.snmjournals.org/content/59/10/1489.long)
+
+### General dosimetry
+
+### On dosimetry in PRRT
+
+Renal and Red Marrow Dosimetry in Peptide Receptor Radionuclide Therapy: 20 Years of History and Ahead
+[Paper link](https://www.mdpi.com/1422-0067/22/15/8326)
+
+In Vivo Instability of 177Lu-DOTATATE During Peptide Receptor Radionuclide Therapy
+[Paper link](https://jnm.snmjournals.org/content/61/9/1337)
+
+### Fluid simulations in blood
+
+A non-comprehensive list for those that are interested in computationally fluid dynamics in blood
+
+Modeling sphere dynamics in blood vessels for SIRT pre-planning – To fathom the potential and limitations
+[Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0939388917301605)
+
+Liver cancer arterial perfusion modelling and CFD boundary conditions methodology: a case study of the haemodynamics of a patient-specific hepatic artery in literature-based healthy and tumour-bearing
+[Paper link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2764)
+
+Computational particle–haemodynamics analysis of liver radioembolization pretreatment as an actual treatment surrogate
+[Paper link](https://onlinelibrary.wiley.com/doi/10.1002/cnm.2791)
+
+Computational Modeling of the Liver Arterial Blood Flow for Microsphere Therapy: Effect of Boundary Conditions
+[Paper link](https://www.mdpi.com/2306-5354/7/3/64)
+
+Personalized Dosimetry for Liver Cancer Y-90 Radioembolization Using Computational Fluid Dynamics and Monte Carlo Simulation
+[Paper link](https://link.springer.com/article/10.1007%2Fs10439-020-02469-1)
+
+A proof-of-concept study of the in-vivo validation of a computational fluid dynamics model of personalized radioembolization
+[Paper link](https://www.nature.com/articles/s41598-021-83414-7)
+
+### SIRT-dosimetry in general
+
+Hepatic Structural Dosimetry in 90Y Microsphere Treatment: A Monte Carlo Modeling Approach Based on Lobular Microanatomy
+[Paper link](https://jnm.snmjournals.org/content/51/2/301)
+
+Quantitative comparison of pre-treatment predictive and post-treatment measured dosimetry for selective internal radiation therapy using cone-beam CT for tumor and liver perfusion territory definition
+[Paper link](https://ejnmmires.springeropen.com/articles/10.1186/s13550-020-00675-5)
+
+## Music in the background right now
+
+
+
+
