@@ -5,38 +5,16 @@ date:   2021-04-12 11:54:52 +0200
 categories: daily read
 ---
 
-## Daily read
+## Intro 
+ 
+Another day in the glare of the computer screen. The weekend is looming and all the little rascals are trying to get everything done before the weekend.
 
-This is the first (possibly last, time will show) post. 
-Sometimes I read papers about something that interest me, sometimes this overlaps with my daily work, sometimes this even overlap with something colleagues would find interesting.
-Sometimes I read papers thorough, sometimes I skim them and sometimes I save them for later (of which I mostly forget).
-Sometimes I even share them with colleagues, and it is here this little text comes in. 
-Instead of harassing them with unsolicited emails, I can just collect them here (and harass them with a notification each time I write something new...)
-Layout and overall format could be solved later.
+### Papers from the week 
 
-### Papers I came by today, yesterday and the day before
+| title | Journal | Abstract | Link |
+| : --- | :---: | :----: | ---: |
+|{PET/CT imaging of head-and-neck and pancreatic cancer in humans by targeting the “Cancer Integrin” $\alpha$v$\beta$6 with Ga-68-Trivehexin}|European Journal of Nuclear Medicine and Molecular Imaging|To develop a new probe for the $\alpha$v$\beta$6-integrin and assess its potential for PET imaging of carcinomas.|https://www.doi.org/10.1007/s00259-021-05559-x|
+|{Comparative biodistribution and radiation dosimetry of 68Ga- DOTATOC and 68Ga-DOTATATE in patients with neuroendocrine tumors}|Journal of Nuclear Medicine|68Ga-DOTATOC and 68Ga-DOTATATE are 2 radiolabeled somatostatin analogs for in vivo diagnosis of neuroendocrine tumors with PET. The aim of the present work was to measure their comparative biodistribution and radiation dosimetry. Methods: Ten patients diagnosed with neuroendocrine tumors were included. Each patient underwent a 45-min dynamic and 3 whole-body PET/CT scans at 1, 2, and 3 h after injection of each tracer on consecutive days. Absorbed doses were calculated using OLINDA/EXM 1.1. Results: Data from 9 patients could be included in the analysis. Of the major organs, the highest uptake at 1, 2, and 3 h after injection was observed in the spleen, followed by kidneys and liver. For both tracers, the highest absorbed organ doses were seen in the spleen and urinary bladder wall, followed by kidney, adrenals, and liver. The absorbed doses to the liver and gallbladder wall were slightly but significantly higher for 68Ga-DOTATATE. The total effective dose was 0.021 ± 0.003 mSv/MBq for both tracers. Conclusion: The effective dose for a typical 100-MBq administration of 68Ga-DOTATATE and 68Ga-DOTATOC is 2.1 mSv for both tracers. Therefore, from a radiation dosimetry point of view, there is no preference for either tracer for PET/CT evaluation of somatostatin receptor-expressing tumors. COPYRIGHT {\textcopyright} 2013 by the Society of Nuclear Medicine and Molecular Imaging, Inc.|https://www.doi.org/10.2967/jnumed.113.120600|
+|{Multi-modal image analysis for semi-automatic segmentation of the total liver and liver arterial perfusion territories for radioembolization}|EJNMMI Research|Purpose: We have developed a multi-modal imaging approach for SIRT, combining 99m Tc-MAA SPECT/CT and/or 90 Y PET, 18 F-FDG PET/CT, and contrast-enhanced CBCT for voxel-based dosimetry, as a tool for treatment planning and verification. For radiation dose prediction calculations, a segmentation of the total liver volume and of the liver perfusion territories is required. Method: In this paper, we proposed a procedure for multi-modal image analysis to assist SIRT treatment planning. The pre-treatment 18 F-FDG PET/CT, 99m Tc-MAA SPECT/CT, and contrast-enhanced CBCT images were registered to a common space using an initial rigid, followed by a deformable registration. The registration was scored by an expert using Likert scores. The total liver was segmented semi-automatically based on the PET/CT and SPECT/CT images, and the liver perfusion territories were determined based on the CBCT images. The segmentations of the liver and liver lobes were compared to the manual segmentations by an expert on a CT image. Result: Our methodology showed that multi-modal image analysis can be used for determination of the liver and perfusion territories using CBCT in SIRT using all pre-treatment studies. The results for image registration showed acceptable alignment with limited impact on dosimetry. The image registration performs well according to the expert reviewer (scored as perfect or with little misalignment in 94% of the cases). The semi-automatic liver segmentation agreed well with manual liver segmentation (dice coefficient of 0.92 and an average Hausdorff distance of 3.04 mm). The results showed disagreement between lobe segmentation using CBCT images compared to lobe segmentation based on CT images (average Hausdorff distance of 14.18 mm), with a high impact on the dosimetry (differences up to 9 Gy for right and 21 Gy for the left liver lobe). Conclusion: This methodology can be used for pre-treatment dosimetry and for SIRT planning including the determination of the activity that should be administered to achieve the therapeutical goal. The inclusion of perfusion CBCT enables perfusion-based definition of the liver lobes, which was shown to be markedly different from the anatomical definition in some of the patients.|https://www.doi.org/10.1186/s13550-019-0485-x|
 
-Dosimetric evaluation of receptor-heterogeneity on the therapeutic efficacy of peptide receptor radionuclide therapy: correlation with DNA damage induction and in vivo survival
-[Paper link](https://jnm.snmjournals.org/content/early/2021/04/09/jnumed.121.262122?ct)
-
-Segmentation Based Denoising of PET Images: An Iterative Approach via Regional Means and Affinity Propagation
-[Paper link](https://pubmed.ncbi.nlm.nih.gov/25333180/)
-
-A Fuzzy Locally Adaptive Bayesian Segmentation Approach for Volume Determination in PET
-[Paper link](https://pubmed.ncbi.nlm.nih.gov/19150782/)
-
-I would set a dangerous precedence by commenting on the papers, and will not do it as of now.
-
-### Table-test
-
-| Title      | Journal | Abstract    | Link|
-| :---        |    :----:   |  :----: | ---: |
-|Addition of 131I-MIBG to PRRT (90Y-DOTATOC) for Personalized Treatment of Selected Patients with Neuroendocrine Tumors      | Journal of Nuclear Medicine      | Peptide receptor radionuclide therapy (PRRT) is an effective treatment for metastatic neuroendocrine tumors. Delivering a sufficient tumor radiation dose remains challenging because of critical-organ dose limitations. Adding 131I-metaiodobenzylguanidine (131I-MIBG) to PRRT may be advantageous in this regard. Methods: A phase 1 clinical trial was initiated for patients with nonoperable progressive neuroendocrine tumors using a combination of 90Y-DOTATOC plus 131I-MIBG. Treatment cohorts were defined by radiation dose limits to the kidneys and the bone marrow. Subject-specific dosimetry was used to determine the administered activity levels. Results: The first cohort treated subjects to a dose limit of 1,900 cGy to the kidneys and 150 cGy to the marrow. No dose-limiting toxicities were observed. Tumor dosimetry estimates demonstrated an expected dose increase of 34\%{\textendash}83\% using combination therapy as opposed to 90Y-DOTATOC PRRT alone. Conclusion: These findings demonstrate the feasibility of using organ dose for a phase 1 escalation design and suggest the safety of using 90Y-DOTATOC and 131I-MIBG.   | [Paper link](https://www.doi.org/10.2967/jnumed.120.254987) |
-
-
-
-## Music in the background right now
-
-Some weeks ago I was notified about Joyce Manor, it has become my new guilty pleasure, Constant Headache sounds like summer early 2010s.
-[Spotify link](https://open.spotify.com/album/13Q0AfGNq7GwUXGeUwWViH?si=ja7KTedpSwaEOqBkjsAeiQ)
 
