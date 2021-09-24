@@ -27,6 +27,13 @@ A Fuzzy Locally Adaptive Bayesian Segmentation Approach for Volume Determination
 
 I would set a dangerous precedence by commenting on the papers, and will not do it as of now.
 
+### Table-test
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 
 ## Music in the background right now
 
