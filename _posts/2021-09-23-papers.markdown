@@ -10,3 +10,6 @@ Another day in the glare of the computer screen. The weekend is looming and all 
 
 ### Papers from the week 
 
+| title | Journal | Abstract | Link |
+| : --- | :---: | :----: | ---: |
+| foo | bar | foobar | foo |
