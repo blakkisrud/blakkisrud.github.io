@@ -29,10 +29,10 @@ I would set a dangerous precedence by commenting on the papers, and will not do 
 
 ### Table-test
 
-| Syntax      | Description | Test Text     |
+| Title      | Journal | Abstract    |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+|Addition of 131I-MIBG to PRRT (90Y-DOTATOC) for Personalized Treatment of Selected Patients with Neuroendocrine Tumors      | Journal of Nuclear Medicine      | Here's this   |
+
 
 
 ## Music in the background right now
