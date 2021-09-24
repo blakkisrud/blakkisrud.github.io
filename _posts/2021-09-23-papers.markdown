@@ -1,7 +1,7 @@
----
+--- 
 layout: post 
 title: "Some post"
-date: 2021-9-23 15:12:10 +0200
+date: 2021-9-24 15:12:10 +0200
 categories: daily read 
 ---
 ## Intro 
@@ -10,4 +10,3 @@ Another day in the glare of the computer screen. The weekend is looming and all 
 
 ### Papers from the week 
 
-Some text instead
