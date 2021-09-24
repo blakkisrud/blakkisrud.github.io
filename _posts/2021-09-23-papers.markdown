@@ -12,4 +12,4 @@ Another day in the glare of the computer screen. The weekend is looming and all 
 
 | title | Journal | Abstract | Link |
 | : --- | :---: | :----: | ---: |
-| PET/CT imaging of head-and-neck and pancreatic cancer in humans by targeting the | Abstract goes here  | https://www.doi.org/10.1007/s00259-021-05559-x |
+| PET/CT imaging of head-and-neck and pancreatic cancer in humans by targeting the | Journal goes here | Abstract goes here  | https://www.doi.org/10.1007/s00259-021-05559-x |
