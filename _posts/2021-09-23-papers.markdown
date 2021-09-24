@@ -12,4 +12,4 @@ Another day in the glare of the computer screen. The weekend is looming and all 
 
 | title | Journal | Abstract | Link |
 | : --- | :---: | :----: | ---: |
-| {PET/CT imaging of head-and-neck and pancreatic cancer in humans by targeting the “Cancer Integrin” $\alpha$v$\beta$6 with Ga-68-Trivehexin} | European Journal of Nuclear Medicine and Molecular Imaging | To develop a new probe for the $\alpha$v$\beta$6-integrin and assess its potential for PET imaging of carcinomas. | https://www.doi.org/10.1007/s00259-021-05559-x |
+| PET/CT imaging of head-and-neck and pancreatic cancer in humans by targeting the | Abstract goes here  | https://www.doi.org/10.1007/s00259-021-05559-x |
