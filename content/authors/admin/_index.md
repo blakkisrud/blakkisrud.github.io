@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Johan Blakkisrud, PhD
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Johan
+last_name: Blakkisrud
 
 # Status emoji
 status:
@@ -20,93 +20,78 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Post-doc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Oslo University Hospital
+    url: https://www.ous.no
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'johbla@ous-hf.no'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
+#  - icon: brands/github
+#    url: https://github.com/gcushen
+#  - icon: brands/linkedin
+#    url: https://www.linkedin.com/
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Theragnostics
+  - Nuclear medicine physics
+  - Internal dosimetry
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Medical Physics
+    institution: University of Oslo
+    date_start: 2016-10-01
+    date_end: 2022-02-17
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+        Title of thesis - Dosimetry in patients treated with [177Lu]Lu-lilotomab satetraxetan
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Need a copy? Email me!'
+      url: 'mailto:johbla@ous-hf.no'
+  - area: Master of Science
+    institution: Norwegian University of Science and Technology
+    date_start: 2010-08-01
+    date_end: 2015-05-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    Specialization in biophysics and medical technology
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral research fellow
+    company_name: Oslo University Hospital
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-05-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+        Research area of PET-tracer comparisons in multiple myeloma patients
+  - position: Visiting researcher
+    company_name: University of Michigan
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-06-01
+    date_end: 2024-07-05
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      Research on recontructing 225-Ac-SPECT/CT-images
+  - position: Medical Physicist
+    company_name: Oslo University Hospital
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-06-01
+    date_end: 2024-07-05
+    summary: |
+      Special responsibility for internal dosimetry calculations and implementation of internal dosimetry in radionuclide therapy with 177Lu-DOTA-TATE
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -144,9 +129,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Norwegian
     percent: 75
-  - name: Portuguese
+  - name: French
     percent: 25
 
 # Awards.
