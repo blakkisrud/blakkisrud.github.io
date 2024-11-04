@@ -3,7 +3,7 @@
 title: Johan Blakkisrud, PhD
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Johan
@@ -56,8 +56,7 @@ education:
     institution: University of Oslo
     date_start: 2016-10-01
     date_end: 2022-02-17
-    summary: |
-        Title of thesis - Dosimetry in patients treated with [177Lu]Lu-lilotomab satetraxetan
+    summary: Title of thesis - Dosimetry in patients treated with [177Lu]Lu-lilotomab satetraxetan
     button:
       text: 'Need a copy? Email me!'
       url: 'mailto:johbla@ous-hf.no'
