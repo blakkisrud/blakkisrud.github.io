@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'johbla@ous-hf.no'
+    url: 'mailto:johbla@ous-hf.no'
     label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
@@ -64,14 +64,13 @@ education:
     institution: Norwegian University of Science and Technology
     date_start: 2010-08-01
     date_end: 2015-05-01
-    summary: |
-    Specialization in biophysics and medical technology
+    summary: Specialization in biophysics and medical technology
 work:
   - position: Postdoctoral research fellow
     company_name: Oslo University Hospital
     company_url: ''
     company_logo: ''
-    date_start: 2021-05-01
+    date_start: 2024-05-01
     date_end: ''
     summary: |2-
         Research area of PET-tracer comparisons in multiple myeloma patients
@@ -129,7 +128,7 @@ languages:
   - name: English
     percent: 100
   - name: Norwegian
-    percent: 75
+    percent: 100
   - name: French
     percent: 25
 
@@ -167,4 +166,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Johan Blakkisrud is a phycisist in the field of medical physics. His main interests are theragnostics in radionuclide therapy.

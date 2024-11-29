@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a scientist working in the [lab of Caroline Stokke](https://ous-research.no/cstokke/) where I am currently doing a post-doc where we are comparing the tracer <sup>18</sup>F-fluciclovine and [<sup>18</sup>F]FDG in patients with multiple myeloma.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My main interest is how we can use medical imaging to improve the outcome of radionuclide therapy.
         
-        Please reach out to collaborate 😃
+        Want to colloborate on something? Please reach out to me on johbla(that-alpha-symbol)ous-hf(dot)no
     design:
       columns: '1'
   - block: collection
