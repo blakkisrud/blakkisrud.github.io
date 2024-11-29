@@ -2,7 +2,7 @@
 title: Biodistribution and Dosimetry Results from a Phase 1 Trial of textsuperscript177
   Lu-lilotomab Satetraxetan Antibody-Radionuclide Conjugate Therapy
 date: '2017-01-01'
-draft: true
+draft: false
 publishDate: '2024-11-05T10:08:47.923454Z'
 authors:
 - Johan Blakkisrud
@@ -37,7 +37,7 @@ abstract: '(177)Lu-lilotomab satetraxetan is a novel antibody-radionuclide conju
   satetraxetan revealed the highest physiologic uptake to be in the liver and spleen
   (besides the red marrow). For all treatment levels investigated, the absorbed doses
   were found to be modest when compared with commonly assumed tolerance limits.'
-featured: false
+featured: true
 publication: ''
 tags:
 - '10'
